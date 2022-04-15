@@ -1,0 +1,7 @@
+eyes_closed1 = 304901;
+eyes_open1 = 605201;
+eyes_closed2 = 904601;
+
+eegchannels=["POz","Pz","T8","Oz","P8"];
+
+refchannels=["P3","P4","O1","O2","T7","P7","CP1","CP2","CP3","CP4","CP5","CP6","TP7","TP8","P1","P2","P5","P6","PO3","PO4"]; 
